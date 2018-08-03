@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\bycubex\source\repos\project1\project1\main.cpp(29): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\bycubex\source\repos\project1\project1\main.cpp(47): warning C4552: "-": Ergebnis des Ausdrucks nicht verwendet.
+c:\users\bycubex\source\repos\project1\project1\main.cpp(52): warning C4552: "-": Ergebnis des Ausdrucks nicht verwendet.
+c:\users\bycubex\source\repos\project1\project1\main.cpp(57): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet.
+c:\users\bycubex\source\repos\project1\project1\main.cpp(62): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet.
+  Project1.vcxproj -> C:\Users\byCubex\source\repos\Project1\Debug\byCubex.exe
